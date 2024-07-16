@@ -1,5 +1,5 @@
 # Aluraflix
-
+![AluraFlix](https://github.com/Penichezito/ALURAFLIX/blob/main/src/assets/aluraflix-screenshot.jpg)
  
 ## Descrição
 O Aluraflix é um challenge proposto pela bolsa Oracle + Alura no projeto ONE (Oracle Next Education), projetado em React com Vite, simulando site de streaming com vídeos do canal Alura do youtube. 
